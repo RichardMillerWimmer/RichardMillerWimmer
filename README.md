@@ -1,4 +1,10 @@
 ### Hi there 👋
+## My name is Richard,
+# And I like solving problems, fixing stuff, and creating things that people enjoy.
+
+# I am a full stack web developer but focus on front end technologies. 
+Some of my experience includes: React, Redux, Nextjs, Astro, SASS, Node, JavaScript, TypeScript, PostgreSQL, HTML, CSS, git
+
 
 <!--
 **RichardMillerWimmer/RichardMillerWimmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
