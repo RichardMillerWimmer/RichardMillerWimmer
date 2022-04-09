@@ -17,7 +17,10 @@
 </div>
 
 <div align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richard-miller-wimmer/)
+  <a href="https://www.linkedin.com/in/richard-miller-wimmer/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richard-miller-wimmer/) -->
  </div>
 
 <!--
