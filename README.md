@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Richard,
 ### And I like solving problems, fixing stuff, and creating things that people enjoy.
-#### I am a full stack web developer but focus on front end technologies. 
+#### I am a full stack web developer but focus on front end technologies with a passion for accessibility. 
 Some of my experience includes: React, Redux, JavaScript/TypeScript, Nextjs, Astro, SASS, Node, PostgreSQL, HTML, CSS, git
 
 
