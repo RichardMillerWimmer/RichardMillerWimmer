@@ -2,7 +2,7 @@
 ### And I like solving problems, fixing stuff, and creating things that people enjoy.
 #### I am a full stack web developer but focus on front end technologies with a passion for accessibility. 
 
-<div>
+<div backgroundcolor='lightgray'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" **alt="Nextjs" width="40" height="40"/>
