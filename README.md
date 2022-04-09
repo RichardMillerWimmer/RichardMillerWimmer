@@ -3,7 +3,6 @@
 #### I am a full stack web developer but focus on front end technologies with a passion for accessibility. 
 Some of my experience includes: React, Redux, JavaScript/TypeScript, Nextjs, Astro, SASS, Node, PostgreSQL, HTML, CSS, git
 
-![redux](https://user-images.githubusercontent.com/78984588/162589858-5b18a570-cefb-407b-8278-87940863108a.svg)![react](https://user-images.githubusercontent.com/78984588/162589860-06d20710-e7ed-48fc-8038-aee5e5d02078.svg)
 
 
 <!--
