@@ -1,11 +1,6 @@
 ### Hi, My name is Richard,
 ### And I like solving problems, fixing stuff, and creating things that people enjoy.
 #### I am a full stack web developer but focus on front end technologies with a passion for accessibility. 
-<div align="center">
-  <a href="https://www.linkedin.com/in/richard-miller-wimmer/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
- </div>
 
 ---
 
@@ -23,11 +18,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
---- 
+---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMillerWimmer&layout=compact&theme=nord" />
-</div>
-
+  <a href="https://www.linkedin.com/in/richard-miller-wimmer/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+ </div>
 
 <!--
 **RichardMillerWimmer/RichardMillerWimmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
