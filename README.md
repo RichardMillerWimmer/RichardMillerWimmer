@@ -1,5 +1,5 @@
 ### Hi, My name is Richard,
-### And I like solving problems, fixing stuff, and building things that people enjoy.
+### Solving problems, delivering products, and investing in people.
 #### I am a full stack web developer but focus on front end technologies with a passion for accessibility. 
 
 [Personal Portfolio](https://richardthe.dev/)
