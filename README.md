@@ -3,6 +3,7 @@
 #### I am a full stack web developer but focus on front end technologies with a passion for accessibility. 
 
 [richardthe.dev | Personal Portfolio](https://richardthe.dev/)
+
 [Private Work Commit Log](https://github.com/richard-miller-wimmer-kr)
 
 ---
